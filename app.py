@@ -1,9 +1,5 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
-sns.set()
-import matplotlib.pyplot as plt
-import plotly.express as px
 import numpy as np
 
 st.title("supermarket data")
